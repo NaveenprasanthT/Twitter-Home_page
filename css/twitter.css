@@ -1,0 +1,24 @@
+.twitter{
+    background-color: white;
+    display: grid;
+    grid-template-columns: 350px auto 350px;
+  
+}
+.left{
+    margin: 140px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    display:inline-block;
+    align-items: center;
+    place-content:inherit;
+    border-right:solid;
+    border-color:rgb(231, 221, 221);
+    margin-right: 0%;
+}
+
+.center{
+    border-right: solid;
+    border-color:rgb(231, 221, 221);
+
+}
+

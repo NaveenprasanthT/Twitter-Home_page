@@ -1,0 +1,35 @@
+.right{
+    margin-left: 10px;
+}
+.img_search{
+    width:20px;
+    margin-left: 10px;
+    position: fixed;
+}
+.search{
+    height:3% ;
+    margin-top: 20px;
+    margin-right: 40px;
+    display: flex;
+    cursor: pointer;
+    background-color: rgb(243, 237, 237);
+    border-radius: 100px;
+    position: fixed;
+}
+.text{
+    margin-left: 50px;
+    width: 200px;
+    border: none;
+    font-size: 20px;
+    color: #5b7083;
+    background-color: rgb(243, 237, 237);
+    cursor: pointer;
+}
+.what{
+    margin-top: 50px;
+    font-size: 25px;
+    font-weight: 700;
+    color: #14171a;
+    padding: 10px 10px;
+}
+

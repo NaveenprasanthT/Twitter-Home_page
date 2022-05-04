@@ -1,0 +1,206 @@
+.twitter_logo{
+    position: fixed;
+    height: 30px;
+    width: 30px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.home{
+    position: fixed;
+    height: 40px;
+    width: 150px;
+    font-size: 25px;
+    color: rgb(14, 13, 13);
+    margin-left: 0%;
+    margin-top: 70px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.home_logo{
+    height: 25px;
+    width: 25px;
+    margin-left: 5%;
+    margin-right:15px;
+}
+.home:hover{
+    background-color: rgb(240, 231, 231);
+    width: 150px;
+    border-radius: 20px;
+}
+.explore{
+    position: fixed;
+    font-size: 25px;
+    color: rgb(14, 13, 13);
+    margin-left: 0%;
+    margin-top: 130px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.explore_logo{
+    height: 30px;
+    width: 30px;
+    margin-left: 0%;
+    margin-right:15px;
+}
+.explore:hover{
+    background-color: rgb(240, 231, 231);
+    width: 150px;
+    border-radius: 20px;
+}
+.bell{
+    position: fixed;
+    font-size: 25px;
+    color: rgb(14, 13, 13);
+    margin-left: 0%;
+    margin-top: 180px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.bell_logo{
+    height: 25px;
+    width: 25px;
+    margin-left: 0%;
+    margin-right:20px;
+}
+.bell:hover{
+    background-color: rgb(240, 231, 231);
+    width: 200px;
+    border-radius: 20px;
+}
+.mess{
+    position: fixed;
+    font-size: 25px;
+    color: rgb(14, 13, 13);
+    margin-left: 0%;
+    margin-top: 230px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.mess_logo{
+    height: 25px;
+    width: 25px;
+    margin-left: 0%;
+    margin-right:20px;
+}
+.mess:hover{
+    background-color: rgb(240, 231, 231);
+    width: 150px;
+    border-radius: 20px;
+}
+.book{
+    position: fixed;
+    font-size: 25px;
+    color: rgb(14, 13, 13);
+    margin-left: 0%;
+    margin-top: 280px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.book_logo{
+    height: 25px;
+    width: 25px;
+    margin-left: 0%;
+    margin-right:20px;
+}
+.book:hover{
+    background-color: rgb(240, 231, 231);
+    width: 200px;
+    border-radius: 20px;
+}
+.list{
+    position: fixed;
+    font-size: 25px;
+    color: rgb(14, 13, 13);
+    margin-left: 0%;
+    margin-top: 330px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.list_logo{
+    height: 23px;
+    width: 23px;
+    margin-left: 0%;
+    margin-right:22px;
+}
+.list:hover{
+    background-color: rgb(240, 231, 231);
+    width: 150px;
+    border-radius: 20px;
+}
+.pro{
+    position: fixed;
+    font-size: 25px;
+    color: rgb(14, 13, 13);
+    margin-left: 0%;
+    margin-top: 380px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.pro_logo{
+    height: 30px;
+    width: 30px;
+    margin-left: 0%;
+    margin-right:15px;
+}
+.pro:hover{
+    background-color: rgb(240, 231, 231);
+    width: 150px;
+    border-radius: 20px;
+}
+.more{
+    position: fixed;
+    font-size: 25px;
+    color: rgb(14, 13, 13);
+    margin-left: 0%;
+    margin-top: 430px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.more_logo{
+    height: 30px;
+    width: 30px;
+    margin-left: 0%;
+    margin-right:15px;
+}
+.more:hover{
+    background-color: rgb(240, 231, 231);
+    width: 150px;
+    border-radius: 20px;
+}
+.tweet{
+    position: fixed;
+    margin-top: 500px;
+    width: 150px ;
+    height: 50px;
+    border-radius: 25px;
+    border: none;
+    font-weight:bolder;
+    font-size: 18px;
+    color: white;
+    background-color: rgb(68, 134, 215);
+    cursor: pointer;
+    transition: box-shadow 0.25s, opacity 0.15s;
+}
+.tweet:hover{
+    box-shadow: 5px 5px 10px black;
+}
+.tweet:active{
+    opacity: 0.7;
+}
